@@ -4,4 +4,4 @@
 - [下载地址](https://raw.githubusercontent.com/yfbdxz/TranslationFixedJar/master/TranslationPlugin.zip)
 - [原项目地址](https://github.com/YiiGuxing/TranslationPlugin/tree/v1.3.4)
 
-　ps:新、老用户都可以使用，老用户不需要重新申请KEY
+　注:新、老用户都可以使用，老用户不需要重新申请KEY
